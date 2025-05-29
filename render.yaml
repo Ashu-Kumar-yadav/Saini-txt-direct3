@@ -4,9 +4,9 @@ services:
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    repo: https://github.com/nikhilsainiop/Saini-txt-direct
+    repo: https://github.com/Ashu-Kumar-yadav/Saini-txt-direct3
     branch: main
-    autoDeploy: false
+    autoDeploy: true
     envVars:
       - key: BOT_TOKEN
         sync: false
