@@ -1,7 +1,7 @@
 services:
   - type: web
     name: SAINI TXT DIRECT 
-    plan: premium 
+    plan: Premium 
     env: docker
     dockerfilePath: Dockerfile
     repo: https://github.com/Ashu-Kumar-yadav/Saini-txt-direct3
